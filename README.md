@@ -1,6 +1,6 @@
 # Minion Lab Auto Bot
 
-An automated bot for managing airdrop tasks using multiple accounts and proxy support.
+[Register MinionLab Here](https://ref.minionlab.io/?referralCode=ERGkAnQS)
 
 ## Features
 - Multi-account support
@@ -15,14 +15,9 @@ An automated bot for managing airdrop tasks using multiple accounts and proxy su
 - npm or yarn package manager
 
 ## Installation
-1. Clone the repository
-```bash
-git clone https://github.com/airdropinsiders/MinionLab-Auto-Bot.git
-cd MinionLab-Auto-Bot
+Use with this script installation 
 ```
-2. Install dependencies:
-```bash
-npm install
+source <(curl -s https://raw.githubusercontent.com/ryzwan29/minionlab-auto-bot/main/quick-installation.sh)
 ```
 
 ## Configuration
